@@ -25,6 +25,7 @@
 			work.appendChild(modal);
 			close.addEventListener("click",function(){
 				modal.classList.add("hide");
+				work.removeChild(modal);
 			});
 		});		
 	});
