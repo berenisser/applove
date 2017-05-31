@@ -91,6 +91,8 @@ header{
   font-size: 14px;
 }
 
+/* --------------------------seccion SERVICES-----------------------------------*/
+
 #services{
   background-color: #F17C72;
   text-align: center;
@@ -110,9 +112,23 @@ header{
 }
 
 h4{
-  padding: 0 70px;
+  padding: 20px 70;
   text-align: center;
 }
+
+/* --------------------------seccion WORK-------------------------------------*/
+
+#work{
+  background-color: white;
+  text-align: center;
+  padding: 70px 7px;
+}
+
+
+.hide{
+  display: none;
+}
+
 
 footer{
   text-align: center;
