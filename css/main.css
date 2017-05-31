@@ -112,8 +112,10 @@ header{
 }
 
 h4{
-  padding: 20px 70;
+  padding: 20px;
   text-align: center;
+  width: 70%;
+  margin:0 auto;
 }
 
 /* --------------------------seccion WORK-------------------------------------*/
